@@ -10,3 +10,8 @@ then
 else
 	echo " I am Super user "
 fi
+
+	echo " Sript is run complitly fully "
+
+
+
