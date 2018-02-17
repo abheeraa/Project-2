@@ -11,7 +11,5 @@ else
 	echo " I am Super user "
 fi
 
-	echo " Sript is run complitly fully "
-
-
+	echo " Sript is run complitly fully all "
 
